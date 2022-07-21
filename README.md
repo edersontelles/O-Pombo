@@ -1,7 +1,5 @@
 # O Pombo
 
-Projeto da Disciplina POO - Entra21 2022
-
 Desenvolva um sistema capaz de armazenar mensagens de texto no formato de um microblog (o Pombo)
 
 1. Requisitos do Pombo:
